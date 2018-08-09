@@ -1,9 +1,9 @@
-variable "aws_region" {
+variable "aws_access_key" {
   description = "access key of the account"
   default     = "us-east-1"
 }
 
-variable "aws_region" {
+variable "aws_secret_key" {
   description = "Secret key of the account"
   default     = "us-east-1"
 }
