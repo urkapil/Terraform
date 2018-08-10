@@ -46,4 +46,4 @@ resource "aws_lambda_function" "lambda" {
       greeting = "Hello"
     }
   }
-}
+} 
